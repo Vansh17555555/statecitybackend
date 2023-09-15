@@ -1,0 +1,121 @@
+[
+    {
+      "state": "AndhraPradesh",
+      "cities": [
+        "Visakhapatnam",
+        "Srikakulam",
+        "Anantapur",
+        "Chittor",
+        "Krishna",
+        "Annathapuramu",
+        "Anatapur",
+        "anantapur"
+      ]
+    },
+    {
+      "state": "Assam",
+      "cities": ["Kamrup"]
+    },
+    {
+      "state": "Chhattisgarh",
+      "cities": ["Raipur", "Durg"]
+    },
+    {
+      "state": "Delhi",
+      "cities": ["Delhi"]
+    },{
+        "state":"goa",
+        "cities":["goa"]
+    },
+
+    {
+      "state": "Gujarat",
+      "cities": [
+        "Sabar kantha",
+        "Ahmedabad",
+        "Rajkot",
+        "Valsad",
+        "Surat",
+        "Bharuch",
+        "Mehsana",
+        "Vadodara",
+        "Jamnagar",
+        "Sachin",
+        "Panchmahal",
+        "Navsari",
+        "Surat",
+        "gandhinagar",
+        "ankleshwar"
+      ]
+    }
+    ,{
+        "state":"haryana",
+        "cities":["ambala city",
+    "panchkula",
+    "panipat",
+    "rohtak",
+    "bahadurgarh",
+    "faridabad",
+    "sonipat",
+    "sonepat",
+    "gurgaon",
+    "gurugram",
+    "IMT Manesar",
+    "kurukshetra",
+    "hisar"
+    ]
+    }
+    ,{
+        "state":"jammu_kashmir",
+        "cities":["ganyal",
+    "srinagar"
+    ]
+    },{
+        "state":"jharkhand",
+        "cities":["Ranchi",
+    "kokaro"
+]
+    }
+    ,{
+        "state":"karnataka",
+        "cities":["bangalore","ramanagra taluk","bengaluru","banglaore","bommanahalli","kolar taluk","mysore","malavalli taluk mandya","tumkun","dharwad","gauridibnur","mysuru","kolar Tq","TumakuruTaluk","dasnapura","ramanagram","tumkur"]
+    },{
+        "state":"kerala",
+        "cities":["Kochi"]
+    },
+    {
+        "state":"MadhyaPradesh",
+        "cities":["Indore","gwalior"]
+    },
+    {
+        "state":"maharashtra",
+        "cities":["dhule","palghar","pune","nashik","raigad","thane","nagpur","mumbai","navi mumbai","vasai","raigad","osmanabad","aurangabad","ahmednagar","panvel","satara","solapur","chakan","buldhana","kolhapur","nashik","valiv","vasai","parbhani","solapur"]
+    }
+    ,{
+        "state":"odisha",
+        "cities":["kurda","sundargarh","ganjam","bhubaneswar","khordha"]
+    },{
+        "state":"punjab",
+        "cities":["SAS nagar","ludhiana","jalandhar","Patial"]
+    },{
+        "state":"rajasthan",
+        "cities":["alwar","jaipur","sikar","barmer","ajmer","dholpur"]
+    },{
+        "state":"tamilnadu",
+        "cities":["chennai","coimbatore","gummidipoondi","tiruvallur","kanchipuram","kancheepuram","kakallur","trichy","thiruvallur","chengalpattu","dharampuri","tiruvallur","kumarapalayam"]
+    },
+    {
+        "state":"telangana",
+        "cities":["Rangareddy","Malkajgiri","Sangareddu","bhuvanagiri","vikarabad"]
+    },{
+        "state":"uttarpradesh",
+        "cities":["ghaziabad","hapur","meerut","sikandrabad","greater noida","kanpur","bulandshahar","varanasi","allahabad","khalilabad","moradabad","agra","mathura","lucknow","kanpur","saharanpur","muzaffarnagar","noida","sambhal","raebarelli","muzaffarnagar","chandauli","sitapur","badaun"]
+    },{
+        "state":"uttrakhand",
+        "cities":["bhagwanpur","haridwar","daulatpur","roorkee","kashipur"]
+    }
+    ,{
+        "state":"westbengal",
+        "cities":["hoogly","bishnupur","khadar","Dist-24","dist. 24"]
+    }
+]
